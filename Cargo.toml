@@ -1,0 +1,3 @@
+[dependencies]
+dirs-next = "2.0.0"
+walkdir = "2.5.0"
